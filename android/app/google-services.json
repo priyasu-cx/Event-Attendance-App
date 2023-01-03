@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "123593236682",
+    "project_id": "devfestkol2022",
+    "storage_bucket": "devfestkol2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123593236682:android:3f1ad15e458b8bf8db9433",
+        "android_client_info": {
+          "package_name": "com.gdgkolkata.gdgkolkata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123593236682-5vcimfmbtb4tg2fjeqlqnklv97e3okn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgkolkata.gdgkolkata",
+            "certificate_hash": "91745b16d0936fafd590cba16ca54b38c21d2974"
+          }
+        },
+        {
+          "client_id": "123593236682-egkid3b0aa257eebb8hov8ib5rdggv9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgkolkata.gdgkolkata",
+            "certificate_hash": "35a204086b9d4b27afd425f2178fa1d1791b8068"
+          }
+        },
+        {
+          "client_id": "123593236682-g4nmuingmq22es2p5eireg2i01eucc2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgkolkata.gdgkolkata",
+            "certificate_hash": "d1bd964df530bcb85b26faa1d0261669b4a389c1"
+          }
+        },
+        {
+          "client_id": "123593236682-hgml7hjajjv1tb3l0usltjst0hgj4k9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jPQXL6vLw89ooRBOIEbonThDZS3mm94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123593236682-hgml7hjajjv1tb3l0usltjst0hgj4k9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123593236682-9emrfdbpdpire2sudntjtmecfcei41kt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gdgkolkata.gdgkolkata"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

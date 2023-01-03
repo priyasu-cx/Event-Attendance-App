@@ -1,0 +1,39 @@
+name: gdgkolkata
+description: GDG Kolkata Internal app.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+    sdk: ">=2.17.1 <3.0.0"
+
+dependencies:
+    cloud_firestore: null
+    cupertino_icons: ^1.0.2
+    firebase_auth: ^3.11.2
+    firebase_core: ^1.24.0
+    flutter:
+        sdk: flutter
+    get: null
+    google_fonts: null
+    google_sign_in: ^5.4.2
+    qr_code_scanner: ^1.0.1
+    get_it:
+    shared_preferences:
+    flutter_riverpod: ^2.0.2
+
+dev_dependencies:
+    flutter_lints: ^2.0.0
+    flutter_test:
+        sdk: flutter
+    flutter_launcher_icons: "^0.10.0"
+flutter_icons:
+    android: "launcher_icon"
+    ios: true
+    image_path: "assets/DevFestKol new logo.webp"
+
+flutter:
+    uses-material-design: true
+    assets:
+        - assets/
